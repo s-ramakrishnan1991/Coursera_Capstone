@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is the final assignment project from the Coursera-Capstone. Week 1
+This is the final assignment project from the Applied Data Science Capstone Project.
